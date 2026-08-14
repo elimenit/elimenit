@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Elmer Yachak
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3F97F7&center=true&vCenter=true&width=600&lines=Student+Computer+Sciense;Cybersecurity+Enthusiast+%26+Researcher;Python+%26+Backend+Specialist;Cloud+%26+DevOps+Engineer;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3F97F7&center=true&vCenter=true&width=600&lines=Student+Computer+Sciense;Cibersecurity+Enthusiast+%26+Researcher;Python+%26+Backend+Specialist;Cloud+%26+DevOps+Engineer;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-Passionate **Backend Developer** and **Cybersecurity Enthusiast & Researcher** with extensive expertise in web, and cloud technologies. I specialize in building secure, scalable applications across multiple platforms while researching emerging security threats and implementing robust defense mechanisms. 
+Passionate **Backend Developer** and **Cibersecurity Enthusiast & Researcher** with extensive expertise in web, and cloud technologies. I specialize in building secure, scalable applications across multiple platforms while researching emerging security threats and implementing robust defense mechanisms. 
 
 ---
 
