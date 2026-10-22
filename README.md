@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Passionate **Backend Developer** and **Cibersecurity Enthusiast & Researcher** with extensive expertise in web, and cloud technologies. I specialize in building secure, scalable applications across multiple platforms while researching emerging security threats and implementing robust defense mechanisms. 
+Passionate **DevOps Engineer** and **Cybersecurity Enthusiast & Researcher** with extensive expertise in web, and cloud technologies. I specialize in building secure, scalable applications across multiple platforms while researching emerging security threats and implementing robust defense mechanisms. 
 
 ---
 
